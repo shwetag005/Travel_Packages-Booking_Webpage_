@@ -1,1 +1,1 @@
-hi
+Welcome to the Travel Package & Destination Information repository! This project features a web page that highlights diverse travel packages and popular destinations worldwide. It’s designed for travelers seeking inspiration and details for their next getaway.
